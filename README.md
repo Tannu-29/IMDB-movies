@@ -15,6 +15,9 @@ The production company wants to plan their every move analytically based on data
 1. Excel
 2. My SQL
 
+## ER Diagram
+![ER Diagram](https://github.com/user-attachments/assets/96a99712-e80c-4964-85f3-e8dac6e9c3b0)
+
 
 ## Conclusion
 
